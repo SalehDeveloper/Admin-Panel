@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\Web_API\\AdminPanel\\Backend-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95352CD-0A9D-46CC-848A-ED509425C738}|Backend-dotnet\\Backend-dotnet.csproj|d:\\projects\\web_api\\adminpanel\\backend-dotnet\\backend-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C95352CD-0A9D-46CC-848A-ED509425C738}|Backend-dotnet\\Backend-dotnet.csproj|solutionrelative:backend-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95352CD-0A9D-46CC-848A-ED509425C738}|Backend-dotnet\\Backend-dotnet.csproj|d:\\projects\\web_api\\adminpanel\\backend-dotnet\\backend-dotnet\\core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95352CD-0A9D-46CC-848A-ED509425C738}|Backend-dotnet\\Backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95352CD-0A9D-46CC-848A-ED509425C738}|Backend-dotnet\\Backend-dotnet.csproj|d:\\projects\\web_api\\adminpanel\\backend-dotnet\\backend-dotnet\\core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95352CD-0A9D-46CC-848A-ED509425C738}|Backend-dotnet\\Backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROJECTS\\Web_API\\AdminPanel\\Backend-dotnet\\Backend-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend-dotnet\\appsettings.json",
+              "ToolTip": "D:\\PROJECTS\\Web_API\\AdminPanel\\Backend-dotnet\\Backend-dotnet\\appsettings.json",
+              "RelativeToolTip": "Backend-dotnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T22:41:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\Web_API\\AdminPanel\\Backend-dotnet\\Backend-dotnet\\Core\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Backend-dotnet\\Core\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\PROJECTS\\Web_API\\AdminPanel\\Backend-dotnet\\Backend-dotnet\\Core\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Backend-dotnet\\Core\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:17:04.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\Web_API\\AdminPanel\\Backend-dotnet\\Backend-dotnet\\Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Backend-dotnet\\Core\\Services\\AuthService.cs",
+              "ToolTip": "D:\\PROJECTS\\Web_API\\AdminPanel\\Backend-dotnet\\Backend-dotnet\\Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "Backend-dotnet\\Core\\Services\\AuthService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwHcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:16:17.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
